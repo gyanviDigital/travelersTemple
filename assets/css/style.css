@@ -1557,3 +1557,10 @@ html,body{
 
 
 /*========================Thank you=================*/
+.toor-img-box{
+    transition: 0.5s;
+}
+.toor-img-box:hover{
+    box-shadow: 1px 0px 5px 1px black;
+   
+}
